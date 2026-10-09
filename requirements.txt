@@ -1,5 +1,5 @@
 numpy
-python-opencv
+opencv-python
 matplotlib.pyplot
 streamlit
 streamlit-drawable-canvas
