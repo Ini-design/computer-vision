@@ -1,0 +1,6 @@
+numpy
+python-opencv
+matplotlib.pyplot
+streamlit
+streamlit-drawable-canvas
+opencv-contrib-python
